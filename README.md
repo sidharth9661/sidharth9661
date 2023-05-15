@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/sidharth-pansari-7aab5a207/)
 
-- 💬 Ask me about **Web Development, JavaScript, DSA, C++, Data Science, Python**
+- 💬 Ask me about **Java, Web Development, JavaScript, DSA, C++, Data Science, Python**
 
 - 📫 How to reach me **sidharth.pansari07@gmail.com**
 
