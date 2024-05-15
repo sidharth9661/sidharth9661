@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Speed Dating (ML Project)**
+- 🔭 Currently working at **GeekyAnts**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱**Full-Stack Developer**
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/sidharth-pansari-7aab5a207/)
 
-- 💬 Ask me about ** Reactjs,Nodejs,Expressjs,Machine Learning,Java, Web Development, JavaScript, DSA, C++, Data Science, Python**
+- 💬 Ask me about ** Php,Laravel,,MySql,PhpMyAdmin,MongoDb,Api Development,Reactjs,Nodejs,Expressjs,Machine Learning,Java, Web Development, JavaScript, DSA, C++, Data Science, Python**
 
 - 📫 How to reach me **sidharth.pansari07@gmail.com**
 
